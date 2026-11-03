@@ -6,8 +6,8 @@ Competition page: https://www.synapse.org/Synapse:syn74277461
 
 Final rank on the hidden test set: 6th of 15 teams.
 
-![Final leaderboard](results.png)
+![Final leaderboard](Imed%20challenge%202026%20NVS%20task%20results.png)
 
 FBSS is a splatting renderer where each primitive is a small 3D field written in a spectral basis instead of a Gaussian, with its own CUDA rasteriser, a motion model for the tissue and a training pipeline built for this challenge. The code, the full results and the technical report are private.
 
-If you are interested in the complete repository, the results, or in continuing this research together, contact me at sultanfrikha2019@gmail.com.
+If you are interested in the complete repository, the results, or in continuing this research together, contact me at sultan.frikha@ensi-uma.tn.
