@@ -1,4 +1,4 @@
-# FBSS: Fourier-Bessel Spherical-Harmonic Splatting
+# FBSS: Fourier-Bessel Spectral Splatting
 
 My entry to the iMED-NVS 2026 challenge (MICCAI 2026, EndoVis): rendering a surgical scene from a second endoscope, using only the recording of the first one.
 
